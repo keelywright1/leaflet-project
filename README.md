@@ -1,5 +1,7 @@
 # Leaflet Homework - Visualizing Data with Leaflet
 
+<img src='Images/leafLet.PNG'>
+
 ## Background
 
 ![1-Logo](Images/1-Logo.png)
